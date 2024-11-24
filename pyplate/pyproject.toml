@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "pyplate"
 version = "0.1.0"
-description = "Transform Microplate Data into DataFrames"
+description = "Transform Microplates into DataFrames"
 authors = ["Shubham Dutta"]
 license = "MIT"
 readme = "README.md"
